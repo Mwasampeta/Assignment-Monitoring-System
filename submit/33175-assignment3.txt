@@ -1,0 +1,3 @@
+It is difficult for teacher to manage student’s assignment (upload assignment, 
+submit assignment, marking, recording of marks, checking of plagiarism) especially whe
+n number of students is large, so that this project will help teachers to manage student’s assignment easily 
